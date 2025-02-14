@@ -2,10 +2,10 @@
 ## Intro
 ### The Google Play Store hosts a vast collection of applications, and analyzing this data provides valuable insights for developers, businesses, and analysts. This project focuses on cleaning and preprocessing Play Store app data by handling missing values, fixing inconsistencies, detecting outliers, and preparing the data for analysis
 ## Objective
-### ✅ Clean and preprocess the dataset by fixing inconsistencies in ratings, sizes, prices, categories, and Android versions
-### ✅ Handle missing values and remove or impute them appropriately
-### ✅ Detect and manage outliers to improve data reliability
-### ✅ Extract meaningful insights from the dataset through EDA
+#### ✅ Clean and preprocess the dataset by fixing inconsistencies in ratings, sizes, prices, categories, and Android versions
+#### ✅ Handle missing values and remove or impute them appropriately
+#### ✅ Detect and manage outliers to improve data reliability
+#### ✅ Extract meaningful insights from the dataset through EDA
 ## Dataset Overview
 | Column Name       | Description |
 |------------------|------------|
