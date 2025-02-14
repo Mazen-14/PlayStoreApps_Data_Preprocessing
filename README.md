@@ -30,9 +30,9 @@
 #### Outlier Detection and Handling (Use IQR method)
 #### General Data Cleaning
 ## Project Structure
-│-- googleplaystore.csv               # Raw dataset (CSV)
-│-- Analytical_Questions_Answers.pdf # PDF with answers to analytical questions
-│-- googleplaystore.ipynb    # Jupyter Notebook for data cleaning & analysis
+#### │-- googleplaystore.csv               # Raw dataset (CSV)
+#### │-- Analytical_Questions_Answers.pdf # PDF with answers to analytical questions
+#### │-- googleplaystore.ipynb    # Jupyter Notebook for data cleaning & analysis
 ##  Results & Insights
 ### The analysis answers key business and research questions related to app pricing, installs, reviews, and revenue estimation. Full insights and visualizations are available in the notebook
 
